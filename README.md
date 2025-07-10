@@ -40,5 +40,5 @@ The task folder in your repo should contain the 5 folders ( each corresponding t
 
 ---
 
-Let the battle begin !!!
+Let the battle begin ...
 Sharpen your `border`s, raise your `div`s, and code like a champion!
