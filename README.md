@@ -8,7 +8,9 @@ This is your creative arena to recreate complex shapes and layouts using nothing
 
 ## Objective
 
-Recreate the target shapes from [CSSBattle Daily](https://cssbattle.dev/daily) using pure HTML and CSS. Learn how to:
+Recreate the target shapes from [CSSBattle Daily](https://cssbattle.dev/daily) using pure HTML and CSS. 
+
+## Learn how to:
 
 - Practice layouting techniques.
 - Use CSS creatively (shapes, gradients, transforms, etc.).
